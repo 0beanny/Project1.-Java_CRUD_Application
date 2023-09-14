@@ -26,6 +26,8 @@ public class WordManager {
         return s.nextInt();
     }
     public void start(){
+        wordCRUD.loadFile();
+
         System.out.println("*** 영단어 마스터 ***\n");
         while(true) {
             int menu = selectMenu();
@@ -39,11 +41,20 @@ public class WordManager {
             else if(menu == 1){
                 wordCRUD.listAll();
             }
+            else if(menu == 2){
+                wordCRUD.searchLevel();
+            }
+            else if(menu == 3){
+                wordCRUD.searchWord();
+            }
             else if(menu == 5){
                 wordCRUD.updateItem();
             }
             else if(menu == 6){
                 wordCRUD.deleteItem();
+            }
+            else if(menu == 7){
+                wordCRUD.saveFile();
             }
         }
     }
