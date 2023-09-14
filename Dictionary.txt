@@ -1,6 +1,6 @@
-3|superintendent|관리자, 감독관
-1|electric|전기의, 전기를 생산하는
-2|equipment|장비, 용품
+3|pension|연금,생활 보조금, 수당
+1|strategy|계획, 전략
+2|substandard|표준 이하의, 열악한
 1|keen|예리한
 1|bookkeeper|회계 장부 담당자
 2|difficulties|말썽, 곤란
