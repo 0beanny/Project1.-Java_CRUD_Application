@@ -1,3 +1,50 @@
 3|superintendent|관리자, 감독관
 1|electric|전기의, 전기를 생산하는
 2|equipment|장비, 용품
+1|keen|예리한
+1|bookkeeper|회계 장부 담당자
+2|difficulties|말썽, 곤란
+2|causative|원인이 되는, 야기 시키는
+1|affected|영향을 받는
+1|athletics|체육, 육상 경기
+2|affection|감정, 감동
+3|marginal|최저의, 한계의
+1|release|양도하다, 놓아주다
+2|restrain|저지하다, 제지하다, 억누르다
+3|conduction|전도
+2|possession|소유, 소지, 보유, 소지품
+3|demonstration|입증, 설명, 시연
+3|undisclosed|나타나지 않은
+2|undetermined|미확인의
+1|record|이력, 경력
+2|association|협회, 연계, 연관
+1|ballroom|무도회장
+1|witness|직접보다, 목격하다
+3|stringently|엄격하게, 용서 없이
+1|hysterical|히스테리적인, 발작적인
+1|recognize|표창하다, 인정하다
+2|expedition|여행, 탐험
+2|remote|외딴, 외진
+1|certificate|증명, 증명서, 자격, 면허증
+2|isolated|외딴, 고립된
+2|vessel|선박, 배
+3|therapeutic|치료법의
+3|contraction|수축, 축소
+3|metabolism|신진대사
+1|circular|원형의, 둥근, 순회하는
+1|darken|어두워지다, 어둡게 만들다
+1|acceptance|받아들임, 동의, 수락
+2|princely|엄청난, 웅장한, 후한
+1|religion|종교
+1|attainment|성과, 성취, 달성
+1|attached|애착을 가진, ~소속의
+3|condense|응결되다, 압축시키다
+1|achievement|업적, 성취한 것, 성취, 달성
+3|subdue|진압하다, 가라앉히다, 억압하다
+2|elementary|기본의, 초급의, 근본적인
+2|exclusion|제외, 배제, 차단
+1|cuddle|껴안다, 포옹
+1|divorced|이혼한, ~과 분리된, 단절된
+1|inspiration|영감, 영감을 주는 사람
+1|magnetic|자성의, 자석 같은
+2|skipper|선장, 주장
